@@ -1,0 +1,29 @@
+[
+    {
+        "mosque_name": "Bosnian Islamic Assoc Gazi Husrev-Beg",
+        "location": {
+            "lat": 43.6079518,
+            "lng": -79.5809544
+        },
+        "distance_from_you": 2,
+        "url": "https://www.biaghb.com/"
+    },
+    {
+        "mosque_name": "Masjid Adam",
+        "location": {
+            "lat": 43.6250031,
+            "lng": -79.5871934
+        },
+        "distance_from_you": 3,
+        "url": "https://www.masjidadam.com/"
+    },
+    {
+        "mosque_name": "Mississauga Muslim Community Center",
+        "location": {
+            "lat": 43.6079518,
+            "lng": -79.5809544
+        },
+        "distance_from_you": 5,
+        "url": ""
+    }
+]
